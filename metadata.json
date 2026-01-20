@@ -1,0 +1,9 @@
+
+{
+  "name": "DIPTO Growth Agency",
+  "description": "A high-performance, conversion-optimized marketing agency website featuring DIPTO AI-driven strategy auditing and modern geometric design.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
